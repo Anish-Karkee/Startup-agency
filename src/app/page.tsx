@@ -4,9 +4,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-[radial-gradient(circle_at_top,#111827_0%,#020617_45%,#020617_100%)] text-white">
       <Navbar />
-
       
-
     </main>
   );
 }

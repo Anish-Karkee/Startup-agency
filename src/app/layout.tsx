@@ -13,8 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Glass Agency",
-  description: "A clean glassmorphism agency homepage.",
+  title: "Crossthenics Fitness",
+  description: "A clean glassmorphism  homepage.",
+  icons: {
+    icon: "./favicon.png"
+  }
+  
 };
 
 export default function RootLayout({
