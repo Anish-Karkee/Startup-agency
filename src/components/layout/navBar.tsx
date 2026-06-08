@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { motion } from "framer-motion";
 import { Button } from "../ui/button";
-import Logo from "../../../public/logo/logo01.png"
+import Logo from "../../../public/logo/ct-logo01.png"
 
 export function Navbar() {
   return (
@@ -29,8 +29,9 @@ export function Navbar() {
             {/* Center Content */}
             <div className="flex gap-6 text-white">
                 <a href="#">Home</a>
-                <a href="#">Services</a>
-                <a href="#">About</a>
+                <a href="#">All Product</a>
+                <a href="#">Backpacks</a>
+                 <a href="#">Latest Product</a>
             </div>
 
             {/* Right Content */}
