@@ -28,10 +28,10 @@ export function Navbar() {
 
             {/* Center Content */}
             <div className="flex gap-6 text-white ">
-                <a href="#" className="hover:text-red-700">Home</a>
-                <a href="#" className="hover:text-red-700">All Product</a>
-                <a href="#"className="hover:text-red-700">Backpacks</a>
-                 <a href="#" className="hover:text-red-700">Latest Product</a>
+                <a href="#" className="hover:text-black">Home</a>
+                <a href="#" className="hover:text-black">All Product</a>
+                <a href="#"className="hover:text-black">Backpacks</a>
+                 <a href="#" className="hover:text-black">Latest Product</a>
             </div>
 
             {/* Right Content */}
